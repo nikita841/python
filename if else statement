@@ -1,0 +1,8 @@
+# pythona = eval(input("enter the number"))
+if a%5 == 0:
+    print("Hi five")
+if a%2 == 0:
+    print("It is an even number")
+else:
+    print("it is an odd number ")
+    
